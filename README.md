@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brzlog
-- 👀 I’m interested in freedom
-- 🌱 I’m currently learning to write html.
+- 👀 Stan for learning and freedom
+- 🌱 Baby stepping into computer languages in 30's :/.
 - 📫 Face the northern sky and wait
 
 <!---
